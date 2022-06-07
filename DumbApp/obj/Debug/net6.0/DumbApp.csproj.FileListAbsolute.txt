@@ -1,0 +1,15 @@
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\bin\Debug\net6.0\DumbApp.exe
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\bin\Debug\net6.0\DumbApp.deps.json
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\bin\Debug\net6.0\DumbApp.runtimeconfig.json
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\bin\Debug\net6.0\DumbApp.dll
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\bin\Debug\net6.0\DumbApp.pdb
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.csproj.AssemblyReference.cache
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.AssemblyInfoInputs.cache
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.AssemblyInfo.cs
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.csproj.CoreCompileInputs.cache
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.dll
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\refint\DumbApp.dll
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.pdb
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\DumbApp.genruntimeconfig.cache
+C:\Users\dzsmith\source\repos\DumbApp\DumbApp\obj\Debug\net6.0\ref\DumbApp.dll

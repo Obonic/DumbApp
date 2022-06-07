@@ -1,0 +1,10 @@
+﻿Console.Write("Hello.");
+await Task.Delay(1000); 
+Console.WriteLine("..World!");
+await Task.Delay(2000);
+Console.WriteLine("What's New?");
+await Task.Delay(5000);
+Console.WriteLine("Okay :)");
+await Task.Delay(5000);
+Console.WriteLine("Good Bye! :D");
+await Task.Delay(3000);
